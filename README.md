@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Olá, eu sou o Guilherme 👋
+
+Meu nome é Guilherme Molina Trindade. Eu sou estudante no IFSP e estou em busca do meu primeiro emprego na área de informática.
+
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molina0127&theme=dark&layout=compact">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molina0127&show_icons=true&theme=dark)
+
+
