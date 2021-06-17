@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 
 ## Olá, eu sou o Guilherme 👋
 
-Meu nome é Guilherme Molina Trindade. Eu sou estudante no IFSP e estou em busca do meu primeiro emprego na área de informática.
+Meu nome é Guilherme Molina Trindade 🧑
+
+Eu sou estudante no IFSP 👨‍🎓 
+
+E estou em busca do meu primeiro emprego na área de informática 🧑‍💼
 
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molina0127&theme=dark&layout=compact">
 
