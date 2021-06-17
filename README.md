@@ -26,3 +26,5 @@ E estou em busca do meu primeiro emprego na área de informática 🧑‍💼
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=Molina0127&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molina0127&theme=tokyonight&layout=compact">
   </div>
+
+Também me encontre pelo [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/guilherme-molina-trindade-784bb420a/)]
