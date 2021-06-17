@@ -29,4 +29,4 @@ E estou em busca do meu primeiro emprego na área de informática 🧑‍💼
 
 <br>
 
-Também me encontre pelo [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-molina-trindade-784bb420a/)] 
+Também me encontre pelo [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/guilherme-molina-trindade-784bb420a/)  
