@@ -22,8 +22,6 @@ Eu sou estudante no IFSP 👨‍🎓
 
 E estou em busca do meu primeiro emprego na área de informática 🧑‍💼
 
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molina0127&theme=dark&layout=compact">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molina0127&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Molina0127&theme=dark&layout=compact") ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molina0127&show_icons=true&theme=dark)
 
 
