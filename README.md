@@ -22,5 +22,7 @@ Eu sou estudante no IFSP 👨‍🎓
 
 E estou em busca do meu primeiro emprego na área de informática 🧑‍💼
 
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molina0127&theme=dark&layout=compact"> 
-
+  <div>
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=Soraaslon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soraaslon&theme=tokyonight&layout=compact">
+  </div>
