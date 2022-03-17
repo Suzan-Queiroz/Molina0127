@@ -20,7 +20,7 @@ Meu nome é Guilherme Molina Trindade 🧑
 
 Eu sou estudante no IFSP 👨‍🎓 
 
-E estou em busca do meu primeiro emprego na área de informática 🧑‍💼
+E estou em busca de um emprego na área de informática 🧑‍💼
 
   <div>
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=Molina0127&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
