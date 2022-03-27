@@ -31,6 +31,10 @@ E estou em busca de um emprego na área de informática 🧑‍💼
 
 ### 📫 How to reach me: ...
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/guilherme-molina-trindade/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:guimoltri@gmail.com)
 
 ### My skill
 
@@ -41,10 +45,7 @@ E estou em busca de um emprego na área de informática 🧑‍💼
 
 <br>
 
-Também me encontre pelo 
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-molina-trindade-784bb420a/)](https://www.linkedin.com/in/guilherme-molina-trindade-784bb420a/)
-<a href="mailto:guimoltri@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a> 
+
 
 
 
