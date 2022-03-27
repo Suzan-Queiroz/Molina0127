@@ -22,13 +22,6 @@ Eu sou estudante no IFSP 👨‍🎓
 
 E estou em busca de um emprego na área de informática 🧑‍💼
 
-### 📚 Atualmente eu estou estudando 
-
-![Node.js Badge](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js&logoColor=43853D)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-
 ### 📫 Como me encontrar
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-20232A?style=flat&logo=linkedin&logoColor=0077B5
@@ -42,6 +35,13 @@ E estou em busca de um emprego na área de informática 🧑‍💼
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-20232A?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-20232A?style=flat&logo=css3&logoColor=1572B6)
 ![Language C Badge](https://img.shields.io/badge/C-20232A?style=flat&logo=c&logoColor=00599C)
+
+### 📚 Atualmente eu estou estudando 
+
+![Node.js Badge](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js&logoColor=43853D)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
 ### 😄 Ferramentas e Linguagens que eu já tive contato
 
