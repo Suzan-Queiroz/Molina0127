@@ -22,7 +22,7 @@ Eu sou estudante no IFSP 👨‍🎓
 
 E estou em busca de um emprego na área de informática 🧑‍💼
 
-### 🌱 Atualmente eu estou estudando 
+### 📚 Atualmente eu estou estudando 
 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js&logoColor=43853D)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -36,14 +36,14 @@ E estou em busca de um emprego na área de informática 🧑‍💼
 [![Gmail Badge](https://img.shields.io/badge/Gmail-20232A?style=flat&logo=gmail&logoColor=D14836
 )](mailto:guimoltri@gmail.com)
 
-### Minhas habilidades
+### 💪 Minhas habilidades
 
 ![Git Badge](https://img.shields.io/badge/Git-20232A.svg?style=flat&logo=git&logoColor=%23F05033)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-20232A?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-20232A?style=flat&logo=css3&logoColor=1572B6)
 ![Language C Badge](https://img.shields.io/badge/C-20232A?style=flat&logo=c&logoColor=00599C)
 
-### Ferramentas e Linguagens que eu já tive contato
+### 😄 Ferramentas e Linguagens que eu já tive contato
 
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-20232A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Java Badge](https://img.shields.io/badge/Java-20232A?style=flat&logo=java&logoColor=ED8B00)
