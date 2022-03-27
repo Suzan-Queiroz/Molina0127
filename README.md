@@ -22,6 +22,25 @@ Eu sou estudante no IFSP 👨‍🎓
 
 E estou em busca de um emprego na área de informática 🧑‍💼
 
+### 🌱 I’m currently learning ...
+node
+![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+)
+javascript
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+)
+react
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)
+mysql
+![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+)
+
+### 📫 How to reach me: ...
+
+
+### My skill
+
   <div>
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=Molina0127&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molina0127&theme=dark&layout=compact">
