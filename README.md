@@ -70,29 +70,30 @@ Eu sou estudante no IFSP 👨‍🎓
 
 ## Olá, eu sou o Guilherme 👋
 
-Eu me chamo Guilherme Molina Trindade e estou feliz que você está por aqui
+Eu me chamo Guilherme Molina Trindade e estou feliz que você está por aqui 😄
 
-Eu atualmente estudo no 🏫 IFSP foi lá que eu aprendi a gostar de  tecnologia e de desenvolvimento 💻 como eu gosto hoje. Acredito que eu sempre gostei da ideia de poder impactar a vida de alguém através de algo que produzisse, e eu vejo essa possibilidade na tecnologia.
+Eu atualmente estudo no 🏫 IFSP foi lá que eu aprendi a gostar de tecnologia e de desenvolvimento 💻 como eu gosto hoje. Acredito que eu sempre gostei da ideia de poder impactar a vida de alguém através de algo que produzisse, e vejo essa possibilidade na informática.
 
 Podemos notar isso desde Apps que facilitaram qualquer procedimento simples do nosso cotidiano, até as tentativas mais promissoras de começar uma colonização em Marte, tudo isso envolve tecnologia.
 
-No momento eu sou bem júnior mas acredito que continuando estudando e me dedicando eu alcançarei os meus objetivos mais ousados.
+No momento eu sou bem júnior 😅 mas acredito que com muito foco e dedicação eu alcançarei os meus objetivos mais ousados 🚀
+<br>
 
-### 💪 Eu tenho habilidade em:
+### 💪 Eu tenho habilidade em
 
 ![Git Badge](https://img.shields.io/badge/Git-20232A.svg?style=flat&logo=git&logoColor=%23F05033)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-20232A?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-20232A?style=flat&logo=css3&logoColor=1572B6)
 ![Language C Badge](https://img.shields.io/badge/C-20232A?style=flat&logo=c&logoColor=00599C)
 
-### 📚 Atualmente eu estou estudando:
+### 📚 Atualmente eu estou estudando
 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js&logoColor=43853D)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-### 😄 Eu também já tive contato com outras ferramentas e linguagens como: 
+### 🤓 Eu também já tive contato com outras ferramentas e linguagens como
 
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-20232A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Java Badge](https://img.shields.io/badge/Java-20232A?style=flat&logo=java&logoColor=ED8B00)
