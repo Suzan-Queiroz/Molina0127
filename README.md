@@ -72,7 +72,9 @@ Eu sou estudante no IFSP 👨‍🎓
 
 Eu me chamo Guilherme Molina Trindade e estou feliz que você está por aqui
 
-Eu atualmente estudo no 🏫 IFSP foi lá que eu aprendi a gostar de  tecnologia e de desenvolvimento 💻 como eu gosto hoje. Acredito que eu sempre gostei da ideia de poder impactar a vida de muitas pessoas através de algo que eu produzisse, e eu vejo na tecnologia essa possibilidade, desde Apps que facilitaram qualquer procedimento simples do nosso cotidiano, até as tentativas mais promissoras de começar uma colonização em Marte, tudo isso envolve tecnologia.
+Eu atualmente estudo no 🏫 IFSP foi lá que eu aprendi a gostar de  tecnologia e de desenvolvimento 💻 como eu gosto hoje. Acredito que eu sempre gostei da ideia de poder impactar a vida de alguém através de algo que produzisse, e eu vejo essa possibilidade na tecnologia.
+
+Podemos notar isso desde Apps que facilitaram qualquer procedimento simples do nosso cotidiano, até as tentativas mais promissoras de começar uma colonização em Marte, tudo isso envolve tecnologia.
 
 No momento eu sou bem júnior mas acredito que continuando estudando e me dedicando eu alcançarei os meus objetivos mais ousados.
 
@@ -98,6 +100,22 @@ No momento eu sou bem júnior mas acredito que continuando estudando e me dedica
 ![C# Badge](https://img.shields.io/badge/C%23-20232A?style=flat&logo=c-sharp&logoColor=239120)
 ![Unity Badge](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=007ACC)
+
+### 📈 Minhas estatísticas
+
+  <div>
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=Molina0127&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molina0127&theme=dark&layout=compact">
+  </div>
+  
+### 📫 Caso queira entrar em contato 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-20232A?style=flat&logo=linkedin&logoColor=0077B5
+)](https://www.linkedin.com/in/guilherme-molina-trindade/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-20232A?style=flat&logo=gmail&logoColor=D14836
+)](mailto:guimoltri@gmail.com)
+
+<br>
 
 
 
