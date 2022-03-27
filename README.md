@@ -31,25 +31,26 @@ E estou em busca de um emprego na área de informática 🧑‍💼
 
 ### 📫 Como me encontrar
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-20232A?style=flat&logo=linkedin&logoColor=0077B5
 )](https://www.linkedin.com/in/guilherme-molina-trindade/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white
+[![Gmail Badge](https://img.shields.io/badge/Gmail-20232A?style=flat&logo=gmail&logoColor=D14836
 )](mailto:guimoltri@gmail.com)
 
 ### Minhas habilidades
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Language C Badge](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-20232A.svg?style=flat&logo=git&logoColor=%23F05033)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-20232A?style=flat&logo=html5&logoColor=E34F26)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-20232A?style=flat&logo=css3&logoColor=1572B6)
+![Language C Badge](https://img.shields.io/badge/C-20232A?style=flat&logo=c&logoColor=00599C)
 
 ### Ferramentas e Linguagens que eu já tive contato
 
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-20232A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Java Badge](https://img.shields.io/badge/Java-20232A?style=flat&logo=java&logoColor=ED8B00)
+![Python Badge](https://img.shields.io/badge/Python-20232A?style=flat&logo=python&logoColor=235980)
+![C# Badge](https://img.shields.io/badge/C%23-20232A?style=flat&logo=c-sharp&logoColor=239120)
 ![Unity Badge](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=007ACC)
 
 ### Minhas estatísticas
 
