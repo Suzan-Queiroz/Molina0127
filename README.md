@@ -36,7 +36,13 @@ E estou em busca de um emprego na área de informática 🧑‍💼
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:guimoltri@gmail.com)
 
-### My skill
+### My skills
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Language C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### My stats
 
   <div>
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=Molina0127&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
