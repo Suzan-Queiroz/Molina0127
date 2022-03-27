@@ -70,7 +70,7 @@ Eu sou estudante no IFSP 👨‍🎓
 
 ## Olá, eu sou o Guilherme 👋
 
-Eu me chamo Guilherme Molina Trindade e estou feliz que você está por aqui 😄
+<img src="Guilherme Molina Trindade.png">
 
 Eu atualmente estudo no 🏫 IFSP foi lá que eu aprendi a gostar de tecnologia e de desenvolvimento 💻 como eu gosto hoje. Acredito que eu sempre gostei da ideia de poder impactar a vida de alguém através de algo que produzisse, e vejo essa possibilidade na informática.
 
