@@ -72,9 +72,7 @@ Eu sou estudante no IFSP 👨‍🎓
 
 Eu me chamo Guilherme Molina Trindade e estou feliz que você está por aqui
 
-Eu atualmente estudo no IFSPoi lá que eu aprendi a gostar de tecnologia e de desenvolvimento como eu gosto hoje. Acredito que eu sempre gostei da ideia de poder impactar a vida de muitas pessoas através de algo que eu produzisse, e eu vejo na tecnologia essa possibilidade, desde Apps que facilitaram qualquer procedimento simples do nosso cotidiano, até as tentativas mais promissoras de começar uma colonização em Marte, tudo isso envolve tecnologia.
-
-Eu gosto da ideia de ser um desenvolvedor, porque meu foco com isso é facilitar a vida das pessoas em tarefas que gastam muito tempo, para que elas realmente possam passar tempo com aquilo que realmente importa.
+Eu atualmente estudo no 🏫 IFSP foi lá que eu aprendi a gostar de  tecnologia e de desenvolvimento 💻 como eu gosto hoje. Acredito que eu sempre gostei da ideia de poder impactar a vida de muitas pessoas através de algo que eu produzisse, e eu vejo na tecnologia essa possibilidade, desde Apps que facilitaram qualquer procedimento simples do nosso cotidiano, até as tentativas mais promissoras de começar uma colonização em Marte, tudo isso envolve tecnologia.
 
 No momento eu sou bem júnior mas acredito que continuando estudando e me dedicando eu alcançarei os meus objetivos mais ousados.
 
