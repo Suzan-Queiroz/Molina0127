@@ -39,7 +39,7 @@ No momento eu sou bem júnior 😅 mas acredito que com muito foco e dedicação
 ![React Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-### 🤓 Eu também já tive contato com outras ferramentas e linguagens como
+### 😍 Eu também já tive contato com outras ferramentas e linguagens como
 
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-20232A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Java Badge](https://img.shields.io/badge/Java-20232A?style=flat&logo=java&logoColor=ED8B00)
